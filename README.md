@@ -1,5 +1,5 @@
 # Android-JL_Health
-中文|[EN]()
+中文|[EN](https://github.com/Jieli-Tech/Android-JL_Health/blob/main/README-en.md)
 
 本仓库为杰理健康SDK(Android)的开源仓库，由杰理官方推出，线上线下支持同步发布。
 
