@@ -1,5 +1,5 @@
 # Android-JL_Health
-[中文]()|EN
+[中文](https://github.com/Jieli-Tech/Android-JL_Health/blob/main/README.md)|EN
 
 This repository is the open source repository of JieLi health SDK for Android, officially launched by JieLi, online and offline support synchronous release.
 
