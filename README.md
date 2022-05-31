@@ -83,14 +83,14 @@
 2. 打印文件
 
   1.  打印文件格式
-       格式：[tag_prefix]_log_[timestamp].txt
-       例如：health_log_20220113093020.432.txt ==> 健康SDK打印文件，创建时间：2022/01/13 09:30:20 
+       <br/> 格式：[tag_prefix]_log_[timestamp].txt
+       <br/> 例如：health_log_20220113093020.432.txt ==> 健康SDK打印文件，创建时间：2022/01/13 09:30:20 
   2. 文件存储路径
-       位置: 手机根目录/Android/data/[包名]/files/logcat/
+       <br/> 位置: 手机根目录/Android/data/[包名]/files/logcat/
        * 宜动健康
-         举例：Android/data/com.jieli.healthaide/files/logcat/
+         <br/> 举例：Android/data/com.jieli.healthaide/files/logcat/
        * 手表测试工具
-         举例：Android/data/com.jieli.watchtesttool/files/logcat/
+         <br/> 举例：Android/data/com.jieli.watchtesttool/files/logcat/
 
 3. 出现异常时的正确处理步骤
    1. 简单描述问题现象 (必要)
